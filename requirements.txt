@@ -64,7 +64,7 @@ fastTSNE==0.2.13
 filelock==3.0.10
 Fiona==1.8.4
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 future==0.17.1
 GDAL==2.3.3
 geopandas==0.4.1
